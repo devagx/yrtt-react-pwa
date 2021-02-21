@@ -1,3 +1,3 @@
 # yrtt-react-pwa
 
-This is a react PWA app for....
+This is a weather progressive web application developed in React.
